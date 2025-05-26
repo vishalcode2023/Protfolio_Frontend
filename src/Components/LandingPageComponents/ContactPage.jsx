@@ -221,7 +221,7 @@ const ContactPage = () => {
         </div>
       )}
 
-      <BottomNavbar />
+{/*       <BottomNavbar /> */}
     </div>
   );
 };
