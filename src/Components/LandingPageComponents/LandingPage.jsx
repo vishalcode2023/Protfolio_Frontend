@@ -30,14 +30,14 @@ const LandingPage = () => {
               />
             </div>
 
-            <h1 className="text-4xl text-gray-600 sm:text-4xl md:text-7xl font-bold text-white whitespace-nowrap font-my4 mr-5 md:mx-8 md:mr-0">
+            <h1 className="text-4xl text-gray-600 sm:text-4xl md:text-7xl font-bold  whitespace-nowrap font-my4 mr-5 md:mx-8 md:mr-0">
   I&apos;m Vishal Gowda S
 </h1>
           </div>
 
           <div className="flex mx-5 items-center">
             <div>
-              <h2 className="text-4xl text-gray-600 sm:text-2xl md:text-7xl font-bold text-white whitespace-nowrap font-my4">
+              <h2 className="text-4xl text-gray-600 sm:text-2xl md:text-7xl font-bold  whitespace-nowrap font-my4">
   Remote Designer
 </h2>
             </div>
