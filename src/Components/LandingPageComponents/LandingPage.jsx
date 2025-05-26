@@ -30,16 +30,16 @@ const LandingPage = () => {
               />
             </div>
 
-            <h1 className="text-4xl sm:text-4xl md:text-7xl font-bold text-gray-600 font-my4 mr-5 md:mx-8 md:mr-0">
-              I&apos;m Vishal Gowda S
-            </h1>
+            <h1 className="text-4xl sm:text-4xl md:text-7xl font-bold text-white whitespace-nowrap font-my4 mr-5 md:mx-8 md:mr-0">
+  I&apos;m Vishal Gowda S
+</h1>
           </div>
 
           <div className="flex mx-5 items-center">
             <div>
-              <h2 className="text-4xl sm:text-2xl md:text-7xl font-bold text-gray-600 font-my4">
-                Remote Designer
-              </h2>
+              <h2 className="text-4xl sm:text-2xl md:text-7xl font-bold text-white whitespace-nowrap font-my4">
+  Remote Designer
+</h2>
             </div>
             <div className="relative w-16 h-16 sm:w-40 sm:h-40 md:w-24 md:h-24 mx-auto">
               <img
