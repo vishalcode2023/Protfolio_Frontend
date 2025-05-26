@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'MyRandomFont1';
+    src: url('/Fonts/1ZFS7N918ojhhd0nQWdj3jz4w.ttf') 
+  }
+  
+  @font-face {
+    font-family: 'MyRandomFont2';
+    src: url('/fonts/7AHDUZA47LFVLUFIFSARGIWCRQJHISQP.ttf') 
+  }
+  
+  @font-face {
+    font-family: 'MyRandomFont3';
+    src: url('/Fonts/d3tHnaQIAeqiE5hGcRw4mmgWYU.ttf') 
+  }
+
+  @font-face {
+    font-family: 'MyRandomFont4';
+    src: url('/Fonts/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg.ttf') 
+  }
+
+  @font-face {
+    font-family: 'MyRandomFont5';
+    src: url('/Fonts/jizBRFtNs2ka5fXjeivQ4LroWlx-6zUTjg.ttf') 
+  }
+  @font-face {
+    font-family: 'MyRandomFont6';
+    src: url('/Fonts/Q7YMGCCX6E4CPFH3XWQ7VIDPFTCQZANM.ttf') 
+  }
+  @font-face {
+    font-family: 'MyRandomFont7';
+    src: url('/Fonts/vQyevYAyHtARFwPqUzQGpnDs.ttf') 
+  }
+
+  .font-my1 {
+    font-family: 'MyRandomFont1';
+  }
+  .font-my2 {
+    font-family: 'MyRandomFont2';
+  }
+  .font-my3 {
+    font-family: 'MyRandomFont3';
+  }
+  .font-my4 {
+    font-family: 'MyRandomFont4';
+  }
+  .font-my5 {
+    font-family: 'MyRandomFont5';
+  }
+  .font-my6 {
+    font-family: 'MyRandomFont6';
+  }
+  .font-my7 {
+    font-family: 'MyRandomFont7';
+  }
+
+
+  
