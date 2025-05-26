@@ -31,7 +31,7 @@ const ContactPage = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:3000/api/user", formData);
+      await axios.post("https://protfolio-backend-czut.onrender.com/api/user", formData);
       toast.success("Message sent successfully!");
       setFormData({ name: "", email: "", subject: "" });
     } catch (error) {
@@ -43,7 +43,7 @@ const ContactPage = () => {
   const handleDialogSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:3000/api/call", callData);
+      await axios.post("https://protfolio-backend-czut.onrender.com/api/call", callData);
       toast.success("Call booked successfully!");
       setCallData({ name: "", phone: "" });
       setShowDialog(false);
