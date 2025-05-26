@@ -3,7 +3,7 @@ import { HiMail, HiOutlineLightBulb } from "react-icons/hi";
 
 const TellAboutYourProject = () => {
   const scrollToServices = () => {
-    const section = document.getElementById("Services");
+    const section = document.getElementById("Projects");
     if (section) {
       section.scrollIntoView({ behavior: "smooth" });
     }
