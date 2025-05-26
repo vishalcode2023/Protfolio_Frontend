@@ -52,7 +52,7 @@ const LandingPage = () => {
               <img
                 src="https://framerusercontent.com/images/XJP6N21SKyA8OD0sTiV9H2m0.jpg?scale-down-to=1024"
                 alt="Vishal's Profile"
-                className="w-full h-full object-cover rounded-xl mx-4"
+                className="w-full h-full object-cover rounded-xl mx-2"
               />
             </div>
           </div>
